@@ -7,7 +7,7 @@
 <a href="#"><img title="Leaft-Md No Enc" src="https://img.shields.io/badge/Leaft MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/sendalgtps"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/sendalgtps"><img title="Author" src="https://img.shields.io/badge/Author-Xion-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/riychdwayne/followers"><img title="Followers" src="https://img.shields.io/github/followers/riychdwayne?color=red&style=flat-square"></a>
