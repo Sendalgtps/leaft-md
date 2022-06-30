@@ -38,7 +38,7 @@
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-chika](https://wa.me/6282175575787)
+* Info Lebih Lanjut, Chat [owner-leaft](https://wa.me/6282175575787)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -57,8 +57,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/riychdwayne/Chika-Md.git
-cd Chika-Md
+git clone https://github.com/sendalgtps/leaft-md.git
+cd leaft-md
 pkg install yarn
 yarn
 npm start
@@ -95,13 +95,13 @@ global.sessionName = 'leaft'
 </p>
 
 ## Donate
-- [Dana](https://wa.me/6281575886399?text=Bang+mau+donasi)
-- [Gopay](https://wa.me/6281575886399?text=Bang+mau+donasi)
+- [Dana](https://wa.me/6282135299526?text=Bang+mau+donasi)
+- [Gopay](https://wa.me/6282135299526?text=Bang+mau+donasi)
 
 # Official Group
-- [Group 1](https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw)
-- [Group 2](https://chat.whatsapp.com/L3l8lpRa7SD9eLC58YAa0i)
-- [Group 3](https://chat.whatsapp.com/LQO7wLJ5SY0E5fPsa7jaL8)
+- [Group 1](None)
+- [Group 2](None)
+- [Group 3](None)
 
 # Thanks to
 - [Dika](https://github.com/DikaArdnt) <br> 
