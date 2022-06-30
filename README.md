@@ -1,14 +1,13 @@
 <p align="center">
-<img src="https://telegra.ph/file/a33a0742bd82075087684.jpg" alt="Chika-Md" width="100"/>
+<img src="https://telegra.ph/file/3e69fe3196a13d9399c26.jpg" alt="Leaft-Md" width="100"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="CHIKA MULTI DEVICE" src="https://img.shields.io/badge/CHIKA MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Leaft-Md No Enc" src="https://img.shields.io/badge/Leaft MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/riychdwayne"><img title="Recode" src="https://img.shields.io/badge/Recode-Riy-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/sendalgtps"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/riychdwayne/followers"><img title="Followers" src="https://img.shields.io/github/followers/riychdwayne?color=red&style=flat-square"></a>
@@ -34,12 +33,12 @@
 ---
 
 ## Information
-> Chika-Md adalah bot yang awalnya memakai base dari [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Chika-Md is a bot whatsapp using a Baileys library.
+> leaft-md adalah bot yang awalnya memakai base dari [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Leaft-md is a bot whatsapp using a Baileys library.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-chika](https://wa.me/6281575886399)
+* Info Lebih Lanjut, Chat [owner-chika](https://wa.me/6282175575787)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -68,21 +67,21 @@ npm start
 ## Edit file
 `./settings.js`
 ```ts
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
-global.ownername = 'RIY'
-global.botname = 'Chika-Md'
-global.footer = 'RIY'
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/RiyAPIs'
-global.email = 'riychdwaynee@gmail.com'
-global.region = 'indonesia'
-global.packname = '© Chika-Md'
-global.author = 'RIY'
-global.sessionName = 'chika'
+global.owner = ['6282175575787','6282175575787','6282175575787']
+global.premium = ['6282175575787']
+global.ownernomer = '6282175575787'
+global.ownername = 'Xion(Sion)'
+global.botname = 'Leaft-Md'
+global.footer = 'Sion'
+global.youtube = 'None'
+global.ig = 'https://instagram.com/aeroture'
+global.mygc = 'None'
+global.myweb = 'None'
+global.email = 'sendalgtps@gmail.com'
+global.region = 'isekai'
+global.packname = '© Leaft-Md'
+global.author = 'Xion'
+global.sessionName = 'leaft'
 ```
 
 ## ```HOW TO DEPLOY```
@@ -110,3 +109,4 @@ global.sessionName = 'chika'
 - [Zeeone](https://github.com/zeeone-ofc) <br> 
 - [Yoga](https://github.com/YogGanz) <br> 
 - [Riy](https://github.com/riychdwayne) <br> 
+- [Xion(Sion)](https://github.com/sendalgtps) <br> 
